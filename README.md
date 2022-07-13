@@ -9,6 +9,7 @@
 #### 4. DevOps/MLOps
 
 #### 5. Algorithms
+- [Matrix Algorithms](https://github.com/Smendowski/matrix-algorithms) - multiplication, inversion and LU factorization
 
 <!--
 **Smendowski/Smendowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
