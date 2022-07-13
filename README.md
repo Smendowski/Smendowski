@@ -2,10 +2,12 @@
 
 #### 1. Machine Learning / Data Science / Computer Vision
 - [Data Embedding and Visualization](https://github.com/Smendowski/data-embedding-and-visualization)
+- [Anomaly Detection in Network Traffic](https://github.com/Smendowski/network-anomaly-detection)
 - [Vehicle Detection](https://github.com/Smendowski/vehicle-detection)
 - [Computer Vision](https://github.com/Smendowski/computer-vision)
 
 #### 2. Backend Developement
+- [Hidden Communication using Covert Channels](https://github.com/Smendowski/hidden-communication-using-covert-channels)
 
 #### 3. Data Engineering
 
