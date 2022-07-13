@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-#### 1. Machine Learning and Data Science
+#### 1. Machine Learning / Data Science / Computer Vision
 
-#### 2. Algorithms
+#### 2. Backend Developement
 
-#### 3. Backend Developement
+#### 3. Data Engineering
 
-#### 4. Data Engineering
+#### 4. DevOps/MLOps
 
-#### 5. DevOps/MLOps
+#### 5. Algorithms
 
 <!--
 **Smendowski/Smendowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
