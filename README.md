@@ -8,6 +8,7 @@
 
 #### 2. Backend Developement
 - [Hidden Communication using Covert Channels](https://github.com/Smendowski/hidden-communication-using-covert-channels)
+- [Cross-platform backup application](https://github.com/Smendowski/CoreBackup)
 
 #### 3. Data Engineering
 - [Introduction to PostgreSQL and PL/SQL](https://github.com/Smendowski/introduction-to-PostgreSQL)
