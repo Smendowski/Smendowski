@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+#### 1. Machine Learning and Data Science
+
+#### 2. Algorithms
+
+#### 3. Backend Developement
+
+#### 4. Data Engineering
+
 <!--
 **Smendowski/Smendowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
