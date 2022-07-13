@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 #### 1. Machine Learning / Data Science / Computer Vision
+- [Data Embedding and Visualization](https://github.com/Smendowski/data-embedding-and-visualization)
+- [Vehicle Detection](https://github.com/Smendowski/vehicle-detection)
+- [Computer Vision](https://github.com/Smendowski/computer-vision)
 
 #### 2. Backend Developement
 
@@ -9,7 +12,7 @@
 #### 4. DevOps/MLOps
 
 #### 5. Algorithms
-- [Matrix Algorithms](https://github.com/Smendowski/matrix-algorithms) - multiplication, inversion and LU factorization
+- [Matrix Algorithms](https://github.com/Smendowski/matrix-algorithms)
 - [Triangle Traversal Algorithm](https://github.com/Smendowski/triangle-traversal-algorithm)
 
 <!--
