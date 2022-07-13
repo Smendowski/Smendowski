@@ -10,6 +10,7 @@
 
 #### 5. Algorithms
 - [Matrix Algorithms](https://github.com/Smendowski/matrix-algorithms) - multiplication, inversion and LU factorization
+- [Triangle Traversal Algorithm](https://github.com/Smendowski/triangle-traversal-algorithm)
 
 <!--
 **Smendowski/Smendowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
