@@ -2,6 +2,7 @@
 
 #### 1. Machine Learning / Data Science / Computer Vision
 - [Data Embedding and Visualization](https://github.com/Smendowski/data-embedding-and-visualization)
+- [Neural Networks and Deep Learning](https://github.com/Smendowski/neural-networks-and-deep-learning)
 - [Anomaly Detection in Network Traffic](https://github.com/Smendowski/network-anomaly-detection)
 - [Vehicle Detection](https://github.com/Smendowski/vehicle-detection)
 - [Computer Vision](https://github.com/Smendowski/computer-vision)
