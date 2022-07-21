@@ -6,6 +6,7 @@
 - [Anomaly Detection in Network Traffic](https://github.com/Smendowski/network-anomaly-detection)
 - [Vehicle Detection](https://github.com/Smendowski/vehicle-detection)
 - [Computer Vision](https://github.com/Smendowski/computer-vision)
+- [Data Mining](https://github.com/Smendowski/data-mining)
 
 #### 2️⃣ Backend Developement
 - [Hidden Communication using Covert Channels](https://github.com/Smendowski/hidden-communication-using-covert-channels)
