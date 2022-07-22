@@ -17,6 +17,7 @@
 - [Introduction to PostgreSQL and PL/SQL](https://github.com/Smendowski/introduction-to-PostgreSQL)
 
 #### 4️⃣ DevOps/MLOps
+- [DaftAcademy DevOps](https://github.com/Smendowski/daftacademy-DevOps-2022)
 
 #### 5️⃣ Algorithms
 - [Matrix Algorithms](https://github.com/Smendowski/matrix-algorithms)
